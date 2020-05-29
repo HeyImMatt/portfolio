@@ -1,0 +1,14 @@
+.card-body {
+  text-align: center;
+}
+
+.card-body ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
