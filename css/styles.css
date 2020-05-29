@@ -1,3 +1,18 @@
+.home-content {
+  background: url(../img/portland_dusk.jpg) no-repeat top center;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+}
+
+.home-content p {
+  color: #a8a8a8;
+}
+
+.home-content .jumbotron {
+  background: rgba(0, 0, 0, 0.4)
+}
+
 .card-body {
   text-align: center;
 }
