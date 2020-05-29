@@ -7,6 +7,12 @@
   padding: 0px;
 }
 
+.card img {
+  width: 100%;
+  height: 20vw;
+  object-fit: contain;
+}
+
 hr {
   margin-top: 0;
   margin-bottom: .5rem;
