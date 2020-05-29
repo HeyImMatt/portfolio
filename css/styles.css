@@ -23,3 +23,12 @@ hr {
   float: right;
   width: 40%;
 }
+
+.resume-header {
+  margin: 10px auto;
+  padding: 0px 10px;
+}
+
+.resume-dot {
+  margin: 0px 10px;
+}
