@@ -1,3 +1,7 @@
+.navbar {
+  background-color: rgb(22, 24, 45);
+}
+
 body {
   padding-top: 70px;
 }
@@ -15,6 +19,16 @@ body {
 
 .home-content .jumbotron {
   background: rgba(0, 0, 0, 0.4)
+}
+
+.btn-primary {
+  background-color: #035a96;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #368dc9;
+  border: none;
 }
 
 .connect-icon {
