@@ -10,7 +10,9 @@ body {
   padding-top: 70px;
 }
 
-body p {
+body p,
+body ol,
+body ul {
   font-family: 'Montserrat', sans-serif;
 }
 
